@@ -1,4 +1,4 @@
-# faceauth
+# faceauthorization
 A simple face authentication program in python with basic anti-spoofing mechanisms
 
 #How to use
